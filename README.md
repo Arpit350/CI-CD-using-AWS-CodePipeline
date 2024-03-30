@@ -1,9 +1,7 @@
 # CI-CD-using-AWS-CodePipeline
 
 
-
-
-## Architecture
+ ## Architecture
 <img src="architecture.png" width="90%" />
 
 ## Flow
