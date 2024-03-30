@@ -1,7 +1,6 @@
-# CI-CD-using-AWS-CodePipeline
+# Continuous Integration and Continuous Deployment using AWS CodePipeline Example
 
-
- ## Architecture
+## Architecture
 <img src="architecture.png" width="90%" />
 
 ## Flow
